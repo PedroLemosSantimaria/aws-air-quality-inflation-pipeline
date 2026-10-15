@@ -1,0 +1,140 @@
+{
+  "generated_at": "2026-10-15T05:46:06+00:00",
+  "curated_rows": 1583,
+  "countries_total": 181,
+  "year_min": 2015,
+  "year_max": 2023,
+  "min_years_per_country": 3,
+  "correlation": {
+    "spearman": 0.2788,
+    "pearson": 0.0775,
+    "n": 178
+  },
+  "insight": "Across 178 countries, mean PM2.5 exposure and median inflation show a weak positive rank correlation (Spearman ρ = +0.28). The relationship is a statistical association, not evidence that one drives the other.",
+  "yearly": [
+    {
+      "year": 2015,
+      "countries": 180,
+      "pm25_mean": 24.83,
+      "inflation_median": 1.5
+    },
+    {
+      "year": 2016,
+      "countries": 180,
+      "pm25_mean": 23.58,
+      "inflation_median": 1.6
+    },
+    {
+      "year": 2017,
+      "countries": 178,
+      "pm25_mean": 23.3,
+      "inflation_median": 2.45
+    },
+    {
+      "year": 2018,
+      "countries": 177,
+      "pm25_mean": 23.35,
+      "inflation_median": 2.4
+    },
+    {
+      "year": 2019,
+      "countries": 177,
+      "pm25_mean": 22.67,
+      "inflation_median": 2.1
+    },
+    {
+      "year": 2020,
+      "countries": 174,
+      "pm25_mean": 22.38,
+      "inflation_median": 1.9
+    },
+    {
+      "year": 2021,
+      "countries": 174,
+      "pm25_mean": 22.8,
+      "inflation_median": 3.55
+    },
+    {
+      "year": 2022,
+      "countries": 173,
+      "pm25_mean": 23.51,
+      "inflation_median": 7.9
+    },
+    {
+      "year": 2023,
+      "countries": 170,
+      "pm25_mean": 22.44,
+      "inflation_median": 5.9
+    }
+  ],
+  "by_income": [
+    {
+      "group": "High income",
+      "countries": 60,
+      "pm25_mean": 17.66,
+      "inflation_median": 1.7
+    },
+    {
+      "group": "Upper middle income",
+      "countries": 54,
+      "pm25_mean": 20.94,
+      "inflation_median": 3.2
+    },
+    {
+      "group": "Lower middle income",
+      "countries": 44,
+      "pm25_mean": 29.28,
+      "inflation_median": 4.9
+    },
+    {
+      "group": "Low income",
+      "countries": 20,
+      "pm25_mean": 32.31,
+      "inflation_median": 7.2
+    }
+  ],
+  "by_region": [
+    {
+      "group": "Middle East, North Africa, Afghanistan & Pakistan",
+      "countries": 22,
+      "pm25_mean": 40.66,
+      "inflation_median": 2.05
+    },
+    {
+      "group": "South Asia",
+      "countries": 6,
+      "pm25_mean": 40.48,
+      "inflation_median": 5.25
+    },
+    {
+      "group": "Sub-Saharan Africa",
+      "countries": 44,
+      "pm25_mean": 29.77,
+      "inflation_median": 4.8
+    },
+    {
+      "group": "Latin America & Caribbean",
+      "countries": 31,
+      "pm25_mean": 17.05,
+      "inflation_median": 3.4
+    },
+    {
+      "group": "East Asia & Pacific",
+      "countries": 26,
+      "pm25_mean": 16.16,
+      "inflation_median": 1.95
+    },
+    {
+      "group": "Europe & Central Asia",
+      "countries": 47,
+      "pm25_mean": 15.2,
+      "inflation_median": 2.1
+    },
+    {
+      "group": "North America",
+      "countries": 2,
+      "pm25_mean": 7.19,
+      "inflation_median": 2.0
+    }
+  ]
+}
